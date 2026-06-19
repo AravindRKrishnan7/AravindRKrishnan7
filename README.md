@@ -1,6 +1,6 @@
 # Hi, I'm Aravind 👋
 
-🚀 **Building agentic AI systems** — RAG, multi-agent pipelines, tool-calling, and LLM apps
+🚀 **Building agentic AI systems** - RAG, multi-agent pipelines, tool-calling, and LLM apps
 🎯 Aspiring AI Engineer · learning by shipping real projects
 🔭 Currently building an agentic **Hackathon Idea Engine** that finds real problems from live news and generates original project ideas
 
