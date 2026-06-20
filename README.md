@@ -40,7 +40,7 @@ class AravindRKrishnan:
 - 🌱 Learning applied AI engineering by **shipping real projects**, not just watching tutorials
 - 🧠 All-in on the **agentic AI** niche — the part of software that's moving fastest right now
 - 💬 Ask me about RAG, embeddings, vector databases, or building agents from the ground up
-- ⚡ Fun fact: I run a family incense business — and I'm quietly turning it into an AI playground
+
 
 ---
 
