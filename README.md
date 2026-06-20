@@ -64,16 +64,7 @@ class AravindRKrishnan:
 
 ### 🚀 Featured project
 
-<div align="center">
-
-<a href="https://github.com/AravindRKrishnan7/hackathon-idea-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AravindRKrishnan7&repo=hackathon-idea-engine&theme=tokyonight&hide_border=true" alt="hackathon-idea-engine" />
-</a>
-
-</div>
-
-> **Hackathon Idea Engine** — a multi-agent system that turns *real news* into *scored, novelty-checked* hackathon ideas.
-> Built from scratch (no frameworks) using **multi-agent orchestration**, **RAG**, **embeddings**, **tool calling**, and **structured outputs**.
+**[Hackathon Idea Engine](https://github.com/AravindRKrishnan7/hackathon-idea-engine)** — a multi-agent system that turns real news into scored, novelty-checked hackathon ideas. Built from scratch (no frameworks) using multi-agent orchestration, RAG, embeddings, tool calling, and structured outputs.
 
 ---
 
@@ -91,26 +82,6 @@ class AravindRKrishnan:
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=AravindRKrishnan7&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-### 📈 Contribution graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AravindRKrishnan7&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-### 🐍 Watch a snake eat my contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AravindRKrishnan7/AravindRKrishnan7/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
