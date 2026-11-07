@@ -36,7 +36,7 @@ An Applied AI project for exploring maritime professionals, companies, and inter
 
 I'm particularly interested in **AI evaluation, reliability, security, and inference performance**—areas I'm continuing to explore through hands-on projects.
 
-## 04 / Beyond code
+## 04 / Achievements
 
 - **HacKP 2026 — Finalist:** Top 50 out of 1,800+ entries at Kerala Police Cyberdome's hackathon.
 - **IEEE Computer Society Kerala Section:** Technical Coordinator, Student Leadership Team 2026.
