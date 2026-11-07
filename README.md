@@ -1,143 +1,58 @@
-
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Aravind%20R%20Krishnan&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Applied%20AI%20%26%20Backend%20Engineering&descAlignY=58&descSize=18" alt="Profile header" />
-
-### Building AI systems that go beyond the prompt.
-
-**Python · FastAPI · PostgreSQL · LLM Applications · RAG · Agentic AI**
-
-Final-year B.Tech Computer Science student | Kerala, India
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-r-krishnan-7765232b4/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravindrkrishnan339@gmail.com)
-
+  <img src="./assets/hero.png" alt="Aravind R Krishnan — Applied AI and Backend Engineering" width="100%" />
 </div>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/aravind-r-krishnan-7765232b4/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:aravindrkrishnan339@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/AravindRKrishnan7?tab=repositories">Repositories</a>
+</p>
 
-## About Me
+## 01 / About
 
-I'm a Computer Science undergraduate focused on **Applied AI and backend engineering**.
+I'm a final-year Computer Science student from Kerala, India, focused on **Applied AI and backend engineering**.
 
-I work on AI applications that combine language models with APIs, retrieval systems, structured data, and external tools.
+I like building systems where language models interact with real data, APIs, and tools—not just chat interfaces. I'm especially interested in how these systems retrieve reliable information, perform actions, handle failures, and become useful software.
 
-My interests lie in the engineering challenges behind useful AI systems: how they retrieve evidence, execute actions, maintain reliable data, handle failures, and produce verifiable results.
+Currently strengthening my software-engineering foundations while building with **Python, FastAPI, databases, LLM APIs, and agent workflows**.
 
-I enjoy building end-to-end applications and understanding the architecture behind them.
+**Open to remote Applied AI / LLM / Python backend engineering internships.**
 
-- **Focus:** Applied AI, LLM systems, AI agents, and backend development
-- **Engineering interests:** RAG, tool calling, evaluation, AI reliability, and inference optimization
-- **Currently:** Strengthening Python and backend fundamentals while building and improving AI applications
-- **Open to:** Applied AI, Agentic AI, LLM Engineering, and Python Backend internships
+## 02 / Selected work
 
----
+**[Anchor — Maritime Knowledge Assistant](https://github.com/AravindRKrishnan7/anchor-rag)**<br />
+An Applied AI project for exploring maritime professionals, companies, and interview knowledge. Built around a FastAPI backend, PostgreSQL/Supabase, hybrid retrieval, and LLM integration to answer questions using structured information and document evidence.
 
-## Featured Projects
+`Python` · `FastAPI` · `PostgreSQL` · `Supabase` · `RAG` · `pgvector` · `LLM APIs`
 
-### 01. Anchor — Maritime Knowledge Assistant
+## 03 / Technical focus
 
-**Python · FastAPI · PostgreSQL · Supabase · pgvector · LLM APIs**
+| Area | Technologies & concepts |
+| :--- | :--- |
+| **Backend** | Python, FastAPI, Pydantic, REST APIs, SQL, PostgreSQL |
+| **Applied AI** | LLM APIs, RAG, embeddings, hybrid retrieval, tool calling, structured outputs |
+| **Agent systems** | Agent workflows, MCP, tool integration, grounding and guardrails |
+| **Development** | Git, GitHub, pytest, Docker, Postman, Render |
 
-An AI-powered knowledge platform for maritime professionals, companies, interviews, and training institutes.
+I'm particularly interested in **AI evaluation, reliability, security, and inference performance**—areas I'm continuing to explore through hands-on projects.
 
-**Engineering highlights:**
-- Hybrid retrieval combining vector similarity and PostgreSQL full-text search using Reciprocal Rank Fusion (RRF).
-- LLM tool calling for querying structured information such as professionals, courses, and seat availability.
-- Source-grounded answers with verification of quoted evidence.
-- Admin-controlled document ingestion, consent-aware publishing, and audit trails.
-- Deployed backend using FastAPI, Supabase, and Render.
+## 04 / Beyond code
 
-**[Source Code](https://github.com/AravindRKrishnan7/anchor-rag) · [Live Demo](https://anchor-qe39.onrender.com)**
-
-### 02. SmartPark AI — Intelligent Parking System
-
-**Python · FastAPI · React · OpenCV · YOLO**
-
-A smart parking application connecting computer-vision-based occupancy detection with digital parking reservations.
-
-**Engineering highlights:**
-- Computer vision pipeline for detecting vehicles and parking-slot occupancy.
-- Backend APIs connecting occupancy data, reservations, and user-facing services.
-- Separate tracking of physical occupancy and reservation state.
-- Real-time parking availability and exact-slot reservation workflows.
-
-**[Source Code](https://github.com/AravindRKrishnan7/Smart-Parking-AI-) · [Live Demo](https://smart-parking-ai-kohl.vercel.app)**
-
-### 03. Hackathon Idea Engine — Agentic AI Pipeline
-
-**Python · Gemini API · Embeddings · Tool Calling**
-
-An experimental multi-stage AI system that turns news into hackathon project ideas and evaluates their differentiation.
-
-**Engineering highlights:**
-- Agent workflow for news-based problem discovery and idea generation.
-- API-based information retrieval and structured LLM outputs.
-- Embedding-based similarity checks for identifying generic ideas.
-- Custom Python orchestration of multiple AI stages.
-
-**[Source Code](https://github.com/AravindRKrishnan7/hackathon-idea-engine)**
-
----
-
-## Technical Stack
-
-**Languages & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-
-**AI & LLM Engineering**
-
-`LLM APIs` · `Retrieval-Augmented Generation` · `Hybrid Search` · `Vector Embeddings` · `Tool Calling` · `Structured Outputs` · `MCP` · `AI Guardrails`
-
-**Computer Vision**
-
-`OpenCV` · `Ultralytics YOLO`
-
-**Developer Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## Achievements & Community
-
-- **HacKP 2026 — Finalist:** Top 50 out of 1,800+ at the Kerala Police Cyberdome hackathon.
+- **HacKP 2026 — Finalist:** Top 50 out of 1,800+ entries at Kerala Police Cyberdome's hackathon.
+- **IEEE Computer Society Kerala Section:** Technical Coordinator, Student Leadership Team 2026.
+- **IEEE Computer Society, CCET:** Student Branch Chapter Chairperson.
 - **CMR HackFest, Hyderabad:** Top 20 nationally.
-- **IEDC Hackathon, CCET:** First Prize (2024) and Second Prize (2025).
-- **Technical Coordinator:** IEEE Computer Society Kerala Section, Student Leadership Team 2026.
-- **Chairperson:** IEEE Computer Society, CCET Student Branch Chapter.
+
+## 05 / Currently exploring
+
+- Building reliable tool-using AI applications and backend services.
+- Improving RAG grounding, evaluation, and failure handling.
+- Contributing to open-source software and developing stronger engineering fundamentals.
 
 ---
 
-## What I'm Exploring
-
-My current focus is on becoming a better engineer of reliable AI applications.
-
-- Building and evaluating tool-using AI workflows.
-- Improving retrieval quality, grounding, and evidence verification.
-- Understanding agent failures, prompt-injection risks, and safe tool execution.
-- Exploring inference-time performance, latency, and API cost optimization.
-- Developing stronger Python, backend architecture, and system-design fundamentals.
-
----
-
-<div align="center">
-
-### Let's Connect
-
-I'm interested in technical internships, open-source collaboration, and opportunities to build practical AI systems.
-
-[LinkedIn](https://www.linkedin.com/in/aravind-r-krishnan-7765232b4/) · [GitHub](https://github.com/AravindRKrishnan7) · [Email](mailto:aravindrkrishnan339@gmail.com)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer" />
-
-</div>
+<p align="center">
+  <strong>Have an interesting AI engineering problem?</strong><br />
+  <a href="mailto:aravindrkrishnan339@gmail.com">Let's talk</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aravind-r-krishnan-7765232b4/">Connect on LinkedIn</a>
+</p>
