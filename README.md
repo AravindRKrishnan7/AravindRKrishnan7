@@ -18,7 +18,7 @@ Currently strengthening my software-engineering foundations while building with 
 
 **Open to remote Applied AI / LLM / Python backend engineering internships.**
 
-## 02 / Selected work
+## 02 / featured project
 
 **[Anchor — Maritime Knowledge Assistant](https://github.com/AravindRKrishnan7/anchor-rag)**<br />
 An Applied AI project for exploring maritime professionals, companies, and interview knowledge. Built around a FastAPI backend, PostgreSQL/Supabase, hybrid retrieval, and LLM integration to answer questions using structured information and document evidence.
